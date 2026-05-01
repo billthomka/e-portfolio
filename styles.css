@@ -6,8 +6,9 @@
     box-sizing: border-box;
 }
 
-h1, h2, h3, h4, h5, h6 span {
+h1, h2, h3, h4, h5, h6, span {
   color: #242424; 
+  text_align: center;
 }
     font-family: 'Roboto', sans-serif;
 
